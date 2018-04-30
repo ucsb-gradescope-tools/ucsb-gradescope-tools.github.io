@@ -9,7 +9,7 @@ We support several approaches to autograding with gradescope:
 
 | Language | Method | Example |
 |----------|--------|---------|
-| Python   | `unittest` |  TODO: Insert link to example here | 
+| Python   | `unittest` |  [sample-python-unittest-autograder](https://github.com/ucsb-gradescope-tools/sample-python-unittest-autograder) | 
 | C++      | `tddFuncs.h` |  TODO: Insert link to example here | 
 | Python   | diff (Python script)|  TODO: Insert link to example here | 
 | C++      | diff (Python script)|  TODO: Insert link to example here | 
