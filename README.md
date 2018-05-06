@@ -7,8 +7,8 @@ This webpage documents the repos that are available in the github.com organizati
 We support several approaches to autograding with gradescope:
 
 
-| Language | Method | Example (on github.com) | Example (on github.ucsb.edu)
-|----------|--------|---------|
+| Language | Method | Example (on github.com) | Example (on github.ucsb.edu) |
+|----------|--------|---------|------|
 | Python   | `unittest` |  [sample-python-unittest-autograder](https://github.com/ucsb-gradescope-tools/sample-python-unittest-autograder) |  [sample-python-unittest-autograder](https://github.ucsb.edu/ucsb-gradescope-tools/sample-python-unittest-autograder) | 
 | C++      | `tddFuncs.h` |   [sample-cpp-tddFuncs-autograder](https://github.com/ucsb-gradescope-tools/sample-cpp-tddFuncs-autograder)  |   [sample-cpp-tddFuncs-autograder](https://github.ucsb.edu/ucsb-gradescope-tools/sample-cpp-tddFuncs-autograder) |  
 | Python   | diff (Python script)|  [sample-python-pydiff-autograder](https://github.com/ucsb-gradescope-tools/sample-python-pydiff-autograder) |   [sample-python-pydiff-autograder](https://github.ucsb.edu/ucsb-gradescope-tools/sample-python-pydiff-autograder) | 
