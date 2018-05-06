@@ -11,7 +11,7 @@ We support several approaches to autograding with gradescope:
 |----------|--------|---------|
 | Python   | `unittest` |  [sample-python-unittest-autograder](https://github.com/ucsb-gradescope-tools/sample-python-unittest-autograder) | 
 | C++      | `tddFuncs.h` |  TODO: Insert link to example here | 
-| Python   | diff (Python script)|  TODO: Insert link to example here | 
+| Python   | diff (Python script)|  [sample-python-pydiff-autograder](https://github.com/ucsb-gradescope-tools/sample-python-pydiff-autograder) | 
 | C++      | diff (Python script)|  TODO: Insert link to example here | 
 | Python   | diff based (bash script)|  [sample-python-diff-autograder](https://github.com/ucsb-gradescope-tools/sample-python-diff-autograder) | 
 | C++      | diff based (bash script)|  [sample-cpp-diff-autograder](https://github.com/ucsb-gradescope-tools/sample-cpp-diff-autograder) | 
