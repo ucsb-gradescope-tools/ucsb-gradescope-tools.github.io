@@ -2,6 +2,8 @@
 
 This webpage documents the repos that are available in the github.com organization <https://github.com/ucsb-gradescope-tools>
 
+These repos are also backed up at <https://github.ucsb.edu/ucsb-gradescope-tools>
+
 # Overview
 
 We support several approaches to autograding with gradescope:
@@ -17,6 +19,8 @@ We support several approaches to autograding with gradescope:
 | C++      | diff based (bash script)|  [sample-cpp-diff-autograder](https://github.com/ucsb-gradescope-tools/sample-cpp-diff-autograder) |  [sample-cpp-diff-autograder](https://github.ucsb.edu/ucsb-gradescope-tools/sample-cpp-diff-autograder) | 
 
 We also support a way of linking a Gradescope autograder.zip file to a Github repo, via the [link-gs-zip-with-repo](https://github.com/ucsb-gradescope-tools/link-gs-zip-with-repo) tool.
+
+The `link-gs-zip-with-repo` tools is backed up at <https://github.ucsb.edu/ucsb-gradescope-tools/link-gs-zip-with-repo>.
 
 Notes:
 * `tddFuncs.h` is a  unit testing library for C++ developed locally at UCSB by Phill Conrad, and used in several assignments in CMPSC 16,24 and 32.
