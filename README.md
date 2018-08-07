@@ -18,6 +18,7 @@ We support several approaches to autograding with gradescope:
 | Python   | diff based (bash script) |   [sample-python-diff-autograder](https://github.com/ucsb-gradescope-tools/sample-python-diff-autograder) |   [sample-python-diff-autograder](https://github.ucsb.edu/ucsb-gradescope-tools/sample-python-diff-autograder) | 
 | C++      | diff based (bash script)|  [sample-cpp-diff-autograder](https://github.com/ucsb-gradescope-tools/sample-cpp-diff-autograder) |  [sample-cpp-diff-autograder](https://github.ucsb.edu/ucsb-gradescope-tools/sample-cpp-diff-autograder) | 
 | C++      | diff based (bash script)|  [sample-cpp-seeded-diff-autograder (WORK IN PROGRESS)](https://github.com/ucsb-gradescope-tools/sample-cpp-seeded-diff-autograder) |  TBD | 
+| Java |  | [sample-java-junit-ant-autograder](https://github.com/ucsb-gradescope-tools/sample-java-junit-ant-autograder| | 
 
 We also support a way of linking a Gradescope autograder.zip file to a Github repo, via the [link-gs-zip-with-repo](https://github.com/ucsb-gradescope-tools/link-gs-zip-with-repo) tool.
 
