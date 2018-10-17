@@ -1,5 +1,5 @@
 ---
-topic: "Scanning: Better Scans"
+topic: "Scanned: Scanning Tips"
 desc: "Tips for working with Gradescope scanned assignments"
 indent: true
 ---
