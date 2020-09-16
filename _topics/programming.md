@@ -32,3 +32,6 @@ The `link-gs-zip-with-repo` tools is backed up at <https://github.ucsb.edu/ucsb-
 Notes:
 * `tddFuncs.h` is a  unit testing library for C++ developed locally at UCSB by Phill Conrad, and used in several assignments in CMPSC 16,24 and 32.
 
+# Additional Resources
+
+* [Gradescope Autograder Tutorial with R](/assets/r-autograder.pdf){:data-ajax="false" target="_blank" rel="nofollow"}.  Authored by [Danny Klinenberg](https://www.linkedin.com/in/danny-klinenberg) for a course taught by UCSB Econ Professsor [Dick Startz](https://econ.ucsb.edu/people/faculty/dick-startz).
