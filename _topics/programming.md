@@ -35,4 +35,4 @@ Notes:
 # Additional Resources
 
 * [Gradescope Autograder Tutorial with R](/assets/r-autograder.pdf){:data-ajax="false" target="_blank" rel="nofollow"}.  Authored by [Danny Klinenberg](https://www.linkedin.com/in/danny-klinenberg) for a course taught by UCSB Econ Professsor [Dick Startz](https://econ.ucsb.edu/people/faculty/dick-startz).
-* [Java maven autograder with mutation testing](/assets/r-autograder.pdf).  Authored by [Cole Bergmann](https://github.com/colebergmann) as part of an independent study course with [Phill Conrad](https://www.cs.ucsb.edu/~pconrad)
+* [Java maven autograder with mutation testing](https://github.com/ucsb-gradescope-tools/maven-autograder).  Authored by [Cole Bergmann](https://github.com/colebergmann) as part of an independent study course with [Phill Conrad](https://www.cs.ucsb.edu/~pconrad)
